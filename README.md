@@ -1,3 +1,9 @@
+## Ejected Creat React App 2.1.1
+
+Ejected this CRA immediately after NPX install November 10, 2018
+
+I believe this is CRA V 2.1.1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
